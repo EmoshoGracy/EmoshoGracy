@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @EmoshoGracy
-- 👀 I’m interested in IBM Full Stack Software Developer
-- 🌱 I’m currently learning getting started with Git and GitHub
-- 💞️ I’m looking to collaborate on everything programming and coding as am entirely new 
-- 📫 How to reach me ... 0n whatsApp 07033770557
+- 👀 I’m interested in IBM Full Stack Software Developer and coding
+- 🌱 I’m currently learning to get started with Git and GitHub
+- 💞️ I’m looking to collaborate on everything programming and coding as I am an entirely new 
+- 📫 How to reach me ... via WhatsApp 07033770557
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...       
 
